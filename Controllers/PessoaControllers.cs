@@ -37,7 +37,7 @@ namespace CadastroPessoa.Controllers
         Nome = model.Nome,
         Idade = model.Idade,
         Curso = model.Curso
-      };
+      };     
 
       try
       {
